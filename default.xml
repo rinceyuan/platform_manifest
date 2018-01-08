@@ -18,7 +18,7 @@
   <project path="bootable/diskinstaller" remote="androvm" name="platform_bootable_diskinstaller" revision="androVM-4.1.1_r6.1" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" remote="androvm" name="platform_dalvik" revision="androVM-4.1.1_r6.1" />
+  <project path="dalvik" remote="androvm" name="platform_dalvik" revision="genymotion-4.1.1_r6.1" />
   <project path="development" name="platform/development" />
   <project path="device/asus/grouper" name="device/asus/grouper" />
   <project path="device/common" name="device/common" />
@@ -178,7 +178,7 @@
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" remote="androvm" name="platform_external_wpa_supplicant_8" revision="androVM-4.1.1_r6.1" />
+  <project path="external/wpa_supplicant_8" remote="androvm" name="platform_external_wpa_supplicant_8" revision="genymotion-4.1.1_r6.1" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
@@ -205,7 +205,7 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" remote="androvm" name="platform_hardware_libhardware" revision="androVM-4.1.1_r6.1" />
+  <project path="hardware/libhardware" remote="androvm" name="platform_hardware_libhardware" revision="genymotion-4.1.1_r6.1" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
@@ -308,6 +308,6 @@
 
   <project path="device/androVM" remote="androvm" name="device_androVM" revision="androVM-4.1.1_r6.1" />
   <project path="external/busybox" remote="androvm" name="platform_external_busybox" revision="androVM-4.1.1_r6.1" />
-  <project path="packages/apps/Superuser" remote="androvm" name="platform_packages_apps_Superuser" revision="androVM-4.1.1_r6.1" />
+  <project path="packages/apps/Superuser" remote="androvm" name="platform_packages_apps_Superuser" revision="genymotion-4.1.1_r6.1" />
 
 </manifest>
